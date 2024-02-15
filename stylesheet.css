@@ -1,0 +1,14 @@
+:root {
+    --main: #09757A;
+    --second: #00838C;
+    --acent: #111111;
+    --prefer: #D8EFEF;  
+}
+.header {
+    background-color: black;
+    color: white;
+}
+.header-container {
+    display: flex;
+    padding: 10px;
+}
